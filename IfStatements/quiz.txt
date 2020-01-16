@@ -1,0 +1,4 @@
+Price of a house is $1M.
+If buyer has a good credit, they need to put down 10%.
+Otherwise they need to put down 20%.
+Print the down payment.
