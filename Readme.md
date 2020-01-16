@@ -1,1 +1,1 @@
-This repository of my learning exercises and projects.
+This is a repository of my learning exercises and projects.
