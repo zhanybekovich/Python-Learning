@@ -1,0 +1,8 @@
+Draw the bellow F letter using given list.
+Use only nested loops!
+numbers = [5, 2, 5, 2, 2]
+xxxxx
+xx
+xxxxx
+xx
+xx
