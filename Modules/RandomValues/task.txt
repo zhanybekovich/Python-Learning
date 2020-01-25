@@ -1,0 +1,1 @@
+Write a 'Dice' program. Every time when you run, it generates different values.
