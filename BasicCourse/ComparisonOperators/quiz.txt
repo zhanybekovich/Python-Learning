@@ -1,6 +1,0 @@
-If name is less than 3 characters long
-    Print: Name must be at least 3 characters
-Otherwise if it's more than characters long
-    Print: Name can be a maximum of 50 characters
-Otherwise
-    Print: Name looks good!

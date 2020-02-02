@@ -1,3 +1,0 @@
-Write a function find_max() which takes a list of numbers as an argument
-and finds ma number. After this function should be inserted in 'utils' module.
-
